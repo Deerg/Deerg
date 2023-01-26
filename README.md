@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deerg
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Pyhthon, React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deerg666@gmail.com
 
